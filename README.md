@@ -1,4 +1,4 @@
-# Data-Engineer
-This is the documentation of Data Engineer course.
+# Introduction to Database
+This is the documentation helps you in getting started with Database
 ## License
 [MIT License](LICENSE)
